@@ -97,5 +97,3 @@ Autor: **Luan Rodrigues**
 Ano: **2023**
 
 ---
-
-```
